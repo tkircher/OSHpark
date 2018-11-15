@@ -655,7 +655,7 @@
 </class>
 </classes>
 <parts>
-<part name="IC1" library="thomas_library" deviceset="ATTINY841" device="SO-14" package3d_urn="urn:adsk.eagle:package:16406/2" value="ATTINY641"/>
+<part name="IC1" library="thomas_library" deviceset="ATTINY841" device="SO-14" package3d_urn="urn:adsk.eagle:package:16406/2" value="ATTINY841"/>
 <part name="X1" library="thomas_library" deviceset="ABM3" device="" value="11.0592 MHz"/>
 <part name="C1" library="thomas_library" deviceset="CAPACITOR" device="0805" value="22pF"/>
 <part name="C2" library="thomas_library" deviceset="CAPACITOR" device="0805" value="22pF"/>
