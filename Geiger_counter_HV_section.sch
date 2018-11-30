@@ -676,7 +676,7 @@ Source: http://focus.ti.com/lit/ds/symlink/tlc27l2.pdf</description>
 <part name="Q1" library="thomas_library" deviceset="MMBT3904" device="" value="MMBT3904"/>
 <part name="D1" library="thomas_library" deviceset="DIODE" device="0805" value="1N914"/>
 <part name="C1" library="thomas_library" deviceset="CAPACITOR" device="0805" value="1nF"/>
-<part name="R1" library="thomas_library" deviceset="RESISTOR" device="0805" technology="SMD" value="10k"/>
+<part name="R1" library="thomas_library" deviceset="RESISTOR" device="0805" technology="SMD" value="1k"/>
 <part name="R2" library="thomas_library" deviceset="RESISTOR" device="0805" technology="SMD" value="330"/>
 <part name="R3" library="thomas_library" deviceset="RESISTOR" device="0805" technology="SMD" value="220k"/>
 <part name="R4" library="thomas_library" deviceset="RESISTOR" device="0805" technology="SMD" value="100k"/>
